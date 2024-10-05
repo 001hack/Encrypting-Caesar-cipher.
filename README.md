@@ -16,7 +16,7 @@ def caesar_cipher_encrypt(text, shift):
             encrypted_text += char
 
     return encrypted_text
-if __name__ == "__main__":
+if name == "main":
 
     # Input text from user
     text = input("Enter the text to encrypt: ")

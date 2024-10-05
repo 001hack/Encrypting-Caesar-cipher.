@@ -1,5 +1,6 @@
 # encrypting-Caesar-cipher.
 Creating Python script that encrypts a given text using the Caesar cipher.
+
 def caesar_cipher_encrypt(text, shift):
     encrypted_text = ""
 
